@@ -1,0 +1,39 @@
+ *{
+	 margin: 0;
+	 padding: 0;
+ }
+.center-div{
+	display:block;
+	width:100%;
+}
+
+ .heading{
+	 width:100%;
+	 line-height: 80px;
+	 font-size:1.4rem;
+	 background-color: #a29bfe!important;
+ }
+ .nav_style{
+	background-color: #a29bfe!important;
+}
+.nav_style a{
+	color: white;
+	
+}
+ form {
+	 width:400px;
+ }
+ .main-div{
+	 width:90%;
+	 padding: 20px 0 0 0;
+ }
+ .post-class{
+	 text-transform: uppercase;
+ }
+ .fa{
+	 font-size: 18px;
+ }
+ .fa-edit{color: #63c76a;}
+ .fa-trash{color:#ff0000;}
+
+ 
